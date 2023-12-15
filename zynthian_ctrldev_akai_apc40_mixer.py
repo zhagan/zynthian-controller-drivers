@@ -6,7 +6,7 @@
 # Zynthian Control Device Driver for "Akai MIDI-mix"
 #
 # Copyright (C) 2015-2023 Fernando Moyano <jofemodo@zynthian.org>
-#                         Brian Walton <brian@riban.co.uk>
+#                         Zack Hagan<zhagan@gmail.com>
 #
 #******************************************************************************
 #
